@@ -5,7 +5,7 @@
 </div>
 
 <div class="notification is-danger">
-  Diese Umfrage l&auml;uft bis zum <strong>Sonntag, den 01. Mai 2021 12:00 CEST</strong>.
+  Diese Umfrage l&auml;uft bis zum <strong>Sonntag, den 18. April 2021</strong>.
 </div>
 
 
