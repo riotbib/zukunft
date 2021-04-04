@@ -26,6 +26,7 @@
 <div class="control">
   <div class="select">
     <select name="active">
+      <option>Keine Angabe</option>
       <option>2021</option>
       <option>2020</option>
       <option>2019</option>
