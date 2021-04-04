@@ -9,7 +9,7 @@
 </div>
 
 
-<form action="/datenverarbeitung" method="post">
+<form action="/datenverarbeitung?token={{token}}" method="post">
 
 <div class="box">
 <h3 class="title is-3">Pers&ouml;nliches</h3>
